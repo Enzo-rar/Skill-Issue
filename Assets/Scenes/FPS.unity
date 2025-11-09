@@ -1100,7 +1100,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1579530867}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c01f4197cfa5f224e98a03b585df2487, type: 3}
+  m_Script: {fileID: 11500000, guid: 8ac675849378a1b4c83a9a0b7c163b9e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   enemyPrefab: {fileID: 6543894773280029504, guid: 67bae46b471357641b9cb7d8d470c6d6, type: 3}
@@ -1639,7 +1639,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1940725845}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f13337478e416dc42908816816e54eee, type: 3}
+  m_Script: {fileID: 11500000, guid: dd3b540d66e97ea49a0631dcd5c58e1d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   axes: 1
@@ -1656,7 +1656,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1940725845}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7a1e168d1aba8dc45a1a69c97525e3aa, type: 3}
+  m_Script: {fileID: 11500000, guid: 3fbc7af67387ced409f279fb7909bc8f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 6
@@ -1670,7 +1670,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1940725845}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 39b32b04c34c81b41ae614a4af2a6b21, type: 3}
+  m_Script: {fileID: 11500000, guid: ecf3ec7c5c4dea2408bde0fd71b8bbef, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &2065310241
@@ -1929,10 +1929,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 2114842496}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f13337478e416dc42908816816e54eee, type: 3}
+  m_Script: {fileID: 11500000, guid: dd3b540d66e97ea49a0631dcd5c58e1d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  axes: 2
+  axes: 0
   sensitivityHor: 9
   sensitivityVert: 9
   minPitchAngle: -45
@@ -1946,7 +1946,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2114842496}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7c1893fd22125a24f85994f2399d46da, type: 3}
+  m_Script: {fileID: 11500000, guid: 536b70e26b171f348bf818a56fe4349c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &2140532799
