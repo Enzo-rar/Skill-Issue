@@ -479,4 +479,8 @@ FodyWeavers.xsd
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
 
+.utmp/
+*.log
+*.unitypackage.meta
+
 # End of https://www.toptal.com/developers/gitignore/api/unity,visualstudio,visualstudiocode
