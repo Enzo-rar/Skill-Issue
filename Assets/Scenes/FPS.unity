@@ -1932,7 +1932,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dd3b540d66e97ea49a0631dcd5c58e1d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  axes: 0
+  axes: 2
   sensitivityHor: 9
   sensitivityVert: 9
   minPitchAngle: -45
